@@ -2,16 +2,11 @@
 
 The foundational network technology that enabled the internet to exist.
 
-## Packet Routing Flow
+## Detailed Packet Routing Flow
 ```text
-  Source        Router 1       Router 2        Dest
-    |              |              |              |
-    |--[P1]------->|              |              |
-    |              |--[P1]------->|              |
-    |              |              |--[P1]------->|
-    |--[P2]------->|              |              |
-    |              |--[P2]------->|              |
-    |              |              |--[P2]------->|
+  [Data Source] -> [Packetizer] -> [Routing Engine] -> [Interface/Buffer]
+                                        |                  |
+                                  [Routing Table]    (Outgoing Link)
 ```
 
 ## Key Developments

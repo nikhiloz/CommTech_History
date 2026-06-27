@@ -1,5 +1,10 @@
 # 20th Century Communication Timeline
 
+## Tech Adoption Flow
+```text
+  [1920: Radio] -> [1927: TV] -> [1947: Transistor] -> [1969: ARPANET] -> [1973: Mobile] -> [1989: Web]
+```
+
 - **1920:** First commercial radio broadcast (KDKA in Pittsburgh).
 - **1927:** First demonstration of television (Farnsworth).
 - **1947:** Invention of the transistor at Bell Labs.

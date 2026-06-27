@@ -2,6 +2,13 @@
 
 The development of Local Area Networks (LAN) to connect computers in close proximity.
 
+## Technical LAN/Ethernet Flow
+```text
+  [Host A] --(Physical Link)--> [Network Switch (L2)] <-> [Router (L3)] --> [Internet]
+                                        |
+                                 [Host B/C/D...]
+```
+
 ## Key Developments
 - **Ethernet:** The standard developed for high-speed wired communication between computers.
 - **Client-Server Architecture:** Allowed resources (files, printers, compute power) to be shared among connected workstations.
