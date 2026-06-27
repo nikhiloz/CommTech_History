@@ -2,6 +2,16 @@
 
 Telegraphy marked the beginning of instantaneous, long-distance electronic communication, fundamentally changing how information moved across the globe.
 
+## Basic Telegraphic Flow
+```text
+  Sender (A)           Operator/Wire           Receiver (B)
+      |                      |                      |
+      |--- [Pulse/Dash] ---->|                      |
+      |                      |--- [Pulse/Dash] ---->|
+      |                      |                      |
+    (Morse Code)                                (Decoding)
+```
+
 ## Key Developments
 - **The Need for Speed:** Before the telegraph, information traveled only as fast as a horse, train, or ship. Telegraphy decoupled information from physical transportation.
 - **Electrical Signaling:** Based on the principle of using electrical circuits to send pulses (dots and dashes) over wires.
