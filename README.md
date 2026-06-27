@@ -2,6 +2,16 @@
 
 A comprehensive, fragmented, and detailed documentation project exploring the evolution of communication technology.
 
+```text
+       Evolution of Communication Technology
+    
+    [Ancient] --> [Wired] --> [Broadcast] --> [Digital] --> [Modern]
+    (Visual)    (Telegraph)    (Radio)     (Internet)   (Wireless)
+       |            |             |            |            |
+       +------------+-------------+------------+------------+
+                        (Enabling Technologies)
+```
+
 ## Purpose
 To document and analyze the technical and societal impact of communication technologies, from the earliest human methods to modern, global wireless systems.
 
