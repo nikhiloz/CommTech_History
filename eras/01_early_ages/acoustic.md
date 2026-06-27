@@ -1,6 +1,12 @@
-# Acoustic Communication (Pre-Electric)
+# Era: Early Ages — Acoustic Communication
 
-## Acoustic Flow
+## 1. Executive Summary
+Acoustic communication exploited natural sound propagation to transmit simple, time-sensitive signals across rugged terrain where visual methods failed.
+
+## 2. Theoretical Principles
+Utilizes **acoustic wave propagation** through air. Limited by **attenuation** (loss of signal power over distance) and **ambient noise** (low signal-to-noise ratio in busy environments).
+
+## 3. The ASCII Representation
 ```text
   Sender (Drum)        Environment        Receiver (Ear)
        |                    |                   |
@@ -10,10 +16,16 @@
      (Beat)                                  (Heard)
 ```
 
-Acoustic communication utilizes sound waves to transmit information over distances. These methods are limited by atmospheric conditions and environmental noise.
+## 4. Historical Context & Societal Impact
+Integral to tribal coordination, hunting, and battlefield tactics, often serving as the primary alert mechanism in dense forests or mountains.
 
-## Key Methods
-- **Drums:** Used extensively in Africa, the Americas, and Asia. "Talking drums" could mimic the pitch and rhythm of speech, allowing for complex message relay over forests and plains.
-- **Horns and Trumpets:** Originally made from animal horns or shells (conch), used for signaling in hunting, warfare, and ritualistic announcements.
-- **Whistles and Shouts:** Human voice or carved whistles utilized in mountainous regions to transmit simple but effective alert signals.
-- **Bells:** Used primarily in settlements to mark time, call to prayer, or provide public warnings.
+## 5. Technical Limitations & Challenges
+Short range, high susceptibility to wind, lack of encryption (broadcast to everyone in earshot), and inability to transmit complex data.
+
+## 6. Key Innovations/Enablers
+- **Resonant Chambers:** Drums and hollowed horns to amplify sound.
+- **Pitch Modulation:** Varying frequency to encode simple categorical data.
+
+## 7. Related Concepts
+- [Visual Communication](../01_early_ages/visual.md)
+- [Mechanical Communication](../01_early_ages/mechanical.md)
