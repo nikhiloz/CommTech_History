@@ -2,6 +2,15 @@
 
 Analog television brought visual images into homes, marking the pinnacle of the broadcast era.
 
+## Technical Analog TV Signal Flow
+```text
+  [Camera] -> [Video Pre-Amp] -> [Sync Generator] -> [Modulator (Vestigial Sideband)] -> [Power Amp] -> [Transmitting Antenna]
+                                        |                                               |
+                                  (Timing/Blanking)                               (RF Signal out)
+                                                                                        |
+                                                                                [Receiver/CRT]
+```
+
 ## Key Developments
 - **Scanning Systems:** Development of mechanical (Nipkow disk) and eventually electronic scanning (cathode ray tubes) to convert images into sequential electrical signals.
 - **Broadcast Standards:** Adoption of standards (like NTSC, PAL, SECAM) to ensure compatibility across transmitters and receivers.
