@@ -1,5 +1,15 @@
 # Visual Communication (Pre-Electric)
 
+## Signaling Flow
+```text
+  Beacon Site 1      Line of Sight       Beacon Site 2
+       |                   |                   |
+       |--- [Fire/Smoke]-->|                   |
+       |                   |--- [Fire/Smoke]-->|
+       |                                       |
+    (Signal)                               (Observed)
+```
+
 Visual communication was the primary method for long-distance information transfer before electrical systems. These methods relied on line-of-sight and pre-arranged symbolic meanings.
 
 ## Key Methods

@@ -1,5 +1,15 @@
 # Mechanical Communication (Pre-Electric)
 
+## Messenger Flow
+```text
+  Origin Site        Messenger/Runner        Dest Site
+       |                    |                    |
+       |--- [Dispatch] ---->|                    |
+       |                    |--- [Arrival] ----->|
+       |                                         |
+     (Start)                                 (Delivered)
+```
+
 Mechanical communication involves the physical movement of objects or people to convey messages or information.
 
 ## Key Methods

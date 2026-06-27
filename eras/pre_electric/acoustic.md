@@ -1,5 +1,15 @@
 # Acoustic Communication (Pre-Electric)
 
+## Acoustic Flow
+```text
+  Sender (Drum)        Environment        Receiver (Ear)
+       |                    |                   |
+       |--- [Sound Wave]--->|                   |
+       |                    |--- [Sound Wave] ->|
+       |                                        |
+     (Beat)                                  (Heard)
+```
+
 Acoustic communication utilizes sound waves to transmit information over distances. These methods are limited by atmospheric conditions and environmental noise.
 
 ## Key Methods
