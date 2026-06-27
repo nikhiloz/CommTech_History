@@ -1,8 +1,12 @@
-# Broadcast Era: Analog Television
+# Era: Broadcast — Analog Television
 
-Analog television brought visual images into homes, marking the pinnacle of the broadcast era.
+## 1. Executive Summary
+Analog television transformed the home by bringing moving visual images and audio into millions of households, making it the dominant media of the 20th century.
 
-## Technical Analog TV Signal Flow
+## 2. Theoretical Principles
+Utilizes **scanning raster patterns** to decompose images into serial electrical signals (luminance). Sync pulses are encoded into the waveform to ensure the receiver's electron beam in the CRT is synchronized with the transmitter.
+
+## 3. The ASCII Representation
 ```text
   [Camera] -> [Video Pre-Amp] -> [Sync Generator] -> [Modulator (Vestigial Sideband)] -> [Power Amp] -> [Transmitting Antenna]
                                         |                                               |
@@ -11,7 +15,16 @@ Analog television brought visual images into homes, marking the pinnacle of the 
                                                                                 [Receiver/CRT]
 ```
 
-## Key Developments
-- **Scanning Systems:** Development of mechanical (Nipkow disk) and eventually electronic scanning (cathode ray tubes) to convert images into sequential electrical signals.
-- **Broadcast Standards:** Adoption of standards (like NTSC, PAL, SECAM) to ensure compatibility across transmitters and receivers.
-- **Cultural Impact:** Became the dominant source of news, education, and popular entertainment in the 20th century.
+## 4. Historical Context & Societal Impact
+Unified global culture (shared experiences), reshaped political campaigns (the televised debate), and transformed how citizens consumed information and entertainment.
+
+## 5. Technical Limitations & Challenges
+Highly susceptible to interference ("snow" and "ghosting"), limited resolution, high bandwidth consumption per channel, and lack of interactivity.
+
+## 6. Key Innovations/Enablers
+- **Cathode Ray Tube (CRT):** The display mechanism.
+- **Vestigial Sideband Modulation:** Efficient bandwidth usage for analog TV signals.
+
+## 7. Related Concepts
+- [Color TV Transition](../03_broadcast/tv_color.md)
+- [Digital IPTV](../03_broadcast/tv_digital_iptv.md)
