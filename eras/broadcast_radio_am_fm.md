@@ -2,6 +2,13 @@
 
 Radio introduced the ability to transmit voice, music, and data wirelessly to a mass audience simultaneously.
 
+## Technical Radio Transmission Flow
+```text
+  Audio In (Mic) --> Modulator (AM) --> Amplifier --> Antenna --(RF)--> Antenna --> Receiver (Demod) --> Audio Out (Speaker)
+                          |
+                    Carrier Freq (f_c)
+```
+
 ## Key Developments
 - **AM/FM Modulation:** AM (Amplitude Modulation) was the first practical method for radio transmission. FM (Frequency Modulation) later introduced higher fidelity and lower noise.
 - **Vacuum Tubes:** The invention of the vacuum tube allowed for the amplification and oscillation necessary for practical radio transmitters and receivers.
